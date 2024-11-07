@@ -19,6 +19,11 @@ const WorkExperience = () => {
         <p className="text-sm text-gray-400">Project Intern | RCI-Hyderabad</p>
         <p className="text-gray-300 mt-2">Developed a Security Information and Event Management (SIEM) system, optimizing log reception using UDP sockets...</p>
       </div>
+      <div className="mb-6 p-4 bg-gray-800 rounded-lg">
+        <h3 className="text-xl font-bold">Smart India Hackathon</h3>
+        <p className="text-sm text-gray-400">Team Member</p>
+        <p className="text-gray-300 mt-2">Developed a Security Information and Event Management (SIEM) system, optimizing log reception using UDP sockets...</p>
+      </div>
     </section>
     </div>
   )
